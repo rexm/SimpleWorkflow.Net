@@ -1,2 +1,2 @@
 # SimpleWorkflow.Net
-Get a fully-functioning AWS Simple Workflow (SWF) app running in seconds on .NET
+Get a fully-functioning [AWS Simple Workflow (SWF)](http://aws.amazon.com/swf/) app running in seconds on .NET
